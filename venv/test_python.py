@@ -7,4 +7,4 @@ if __name__=="__main__":
     ui=Ui_TestForm()
     ui.setupUi(widget)
     widget.show()
-    sys.exit(app.exec_())#test
+    sys.exit(app.exec_())#test11111
